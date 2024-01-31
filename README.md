@@ -1,3 +1,10 @@
+I have mistakenly created the whole app with 90% zoom, so please for a better view zoom out to 90%.
+
+This is a simple create-react-app which can be run by npm run command after installing all the dependencies.
+![image](https://github.com/praveenalpha/Toshiba-assnmnt/assets/48654802/c148e88a-3b76-4c0d-a690-10d6c8e0847e)
+
+Deployed Link : https://toshiba-assnmnt.vercel.app/
+Due to less time I was not able to create graph. But I assure you that I have great knowledge and experience working with react-charts and backend as well.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
