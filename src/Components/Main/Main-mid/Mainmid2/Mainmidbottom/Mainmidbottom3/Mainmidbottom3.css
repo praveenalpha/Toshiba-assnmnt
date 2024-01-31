@@ -1,0 +1,14 @@
+.main-mid-bottom-3{
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-self: unset;
+    align-items: baseline;
+    margin-left: 1rem;
+}
+.main-mid-bottom-3-head{
+    margin-bottom: 1rem;
+}
+.main-mid-bottom-3-avatar{
+    margin-left: 1rem;
+}
